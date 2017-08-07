@@ -3,3 +3,6 @@
 *~
 *.DS_store
 *.pyc
+*.params
+*.rec
+*.json
